@@ -1,4 +1,1 @@
-# simple-calculator-python
-<h1>A SIMPLE CALCULATOR IN PYTHON</h1>
-<h2>this is a simple python calculator made for me with much python and vs code, i hope like you it</h2>
-<h3>to use download the latest release and execute the archive in your terminal or in vs code (or something you like)</h3>
+<h1>A SIMPLE CALCULATOR IN PYTHON</h1><h2>this is a simple python calculator made for me with much python and vs code, i hope like you it</h2><h3>to use download the latest release and execute the archive in your terminal or in vs code (or something you like)</h3>
